@@ -9,3 +9,4 @@
 ![Character customize 2](https://github.com/90poitu/Simple-character-customize/blob/main/Assets/Screenshots/character%202.png?raw=true)
 ### Screenshot 3
 ![Character cusomize 3](https://github.com/90poitu/Simple-character-customize/blob/main/Assets/Screenshots/character%203.png?raw=true)
+[video](https://www.youtube.com/watch?v=DJsQZjvsJlg)
